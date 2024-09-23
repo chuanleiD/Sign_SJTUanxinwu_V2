@@ -169,5 +169,5 @@ if __name__ == '__main__':
 			print("success!")
 		else:
 			print("登录失败，请检查用户名、密码和验证码识别是否正确！")
-			time.sleep(5)
+			time.sleep(3)
 	# os.system("taskkill /f /im cmd.exe")  # 关闭cmd窗口
